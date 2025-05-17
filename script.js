@@ -1,3 +1,14 @@
+window.addEventListener('DOMContentLoaded', function () {
+    const urlParams = new URLSearchParams(window.location.search);
+    const isLoggedIn = urlParams.get('loggedIn');
+
+    if (isLoggedIn === 'true') {
+        // Skip login form, show quiz directly
+        document.getElementById("form-container").classList.add("hidden");
+        document.getElementById("quiz-container").classList.remove("hidden");
+    }
+});
+
 let timerInterval;
 
 function validateLogin() {
