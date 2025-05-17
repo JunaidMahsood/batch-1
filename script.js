@@ -1,15 +1,25 @@
-window.addEventListener('DOMContentLoaded', function () {
-    const urlParams = new URLSearchParams(window.location.search);
-    const isLoggedIn = urlParams.get('loggedIn');
-
-    if (isLoggedIn === 'true') {
-        // Skip login form, show quiz directly
-        document.getElementById("form-container").classList.add("hidden");
-        document.getElementById("quiz-container").classList.remove("hidden");
-    }
-});
-
 let timerInterval;
+
+function validateLogin() {
+    const username = document.getElementById("username").value.trim();
+    const contact = document.getElementById("contact").value.trim();
+    const error = document.getElementById("login-error");
+
+    if (username === "" || contact === "") {
+        error.textContent = "Please enter both name and contact correct!";
+        return;
+    }
+
+    // Hide login form
+    document.getElementById("form-container").classList.add("hidden");
+
+    // Show batch selection screen
+    document.getElementById("batch-selection").classList.remove("hidden");
+
+    // Make sure quiz is not shown yet
+    document.getElementById("quiz-container").classList.add("hidden");
+}
+
 
 function validateLogin() {
     // Skip validation entirely and store placeholder user
