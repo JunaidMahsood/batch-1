@@ -1,24 +1,23 @@
-let timerInterval;
-
 function validateLogin() {
-    const username = document.getElementById("username").value.trim();
-    const contact = document.getElementById("contact").value.trim();
-    const error = document.getElementById("login-error");
+    const username = document.getElementById('username').value.trim();
+    const contact = document.getElementById('contact').value.trim();
+    const error = document.getElementById('login-error');
 
     if (username === "" || contact === "") {
-        error.textContent = "Please enter both name and contact correct!";
+        error.textContent = "Please enter both name and contact!";
         return;
     }
 
-    // Hide login form
-    document.getElementById("form-container").classList.add("hidden");
+    // Store user
+    localStorage.setItem('currentUser', JSON.stringify({
+        name: username,
+        contact: contact
+    }));
 
-    // Show batch selection screen
-    document.getElementById("batch-selection").classList.remove("hidden");
-
-    // Make sure quiz is not shown yet
-    document.getElementById("quiz-container").classList.add("hidden");
+    // Start quiz
+    startQuiz();
 }
+
 
 
 function validateLogin() {
