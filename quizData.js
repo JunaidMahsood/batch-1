@@ -137,7 +137,7 @@ D. General Frank Messervy
 
 A. Pakistan Electronic Media Regulation Agency
 
-* B. Pakistan Electronic Media Regulatory Authority
+*B. Pakistan Electronic Media Regulatory Authority
 
 
 C. Pakistan Electronic Management and Radio Authority
