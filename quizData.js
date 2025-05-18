@@ -630,7 +630,7 @@ D. Sand and clay only
 
 A. King Hamad Order of the Renaissance
 
-B. Order of Bahrain First Class
+*B. Order of Bahrain First Class
 
 C. Military Medal Order of Bahrain First Class
 
@@ -841,8 +841,8 @@ D. Bridging Gaps: The Power of Volunteerism
 
 76.What does the phrase "in cold blood" mean?
 
-*
-A. Doing something deliberately and without feeling
+
+*A. Doing something deliberately and without feeling
 
 B. Doing something in a hurry
 
@@ -941,8 +941,8 @@ D. To decorate beautifully
 
 84. What does the word "jeremiad" mean?
 
-*
-A. A long complaint or list of woes
+
+*A. A long complaint or list of woes
 
 B. A short poem
 
@@ -953,8 +953,8 @@ D. A type of dance
 
 85.Which is the closest synonym of "kindle"?
 
-*
-A. Provoke
+
+*A. Provoke
 B. Freeze
 
 C. Destroy
@@ -988,8 +988,8 @@ D. A hardworking individual
 
 88.What is a synonym for "jeopardise"?
 
-*
-A. Endanger
+
+*A. Endanger
 
 B. Protect
 
@@ -1011,8 +1011,8 @@ D. Build
 
 90.What is a synonym for "lambent"?
 
-*
-A. Glowing
+
+*A. Glowing
 B. Dull
 
 C. Harsh
