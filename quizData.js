@@ -222,7 +222,7 @@ D. Success
 18. What is the most appropriate antonym of "quandary"?
 
 *A.Certainty
-B  Confusion
+B.  Confusion
 
 C. Dilemma
 
@@ -953,7 +953,7 @@ D. Five
 
 
 
-87Who was the second paternal uncle of Prophet Muhammad (S.A.W)?
+87. Who was the second paternal uncle of Prophet Muhammad (S.A.W)?
 
 A. Abu Talib
 
