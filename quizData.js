@@ -179,23 +179,6 @@ C. Having a calm and peaceful weekend
 
 D. Planning a vacation in good weather
 
-Question 3:
-Which of the following is closest in meaning to the phrase?
-A. One thing at a time
-B. No news is good news
-*C. Misfortunes tend to follow one another
-D. Everything happens slowly
-
-Next idiom, Buddy?
-
-
-
-
-
-
-
-
-
 
 18.Which of the following is closest in meaning to “a nine days’ wonder”?
 
