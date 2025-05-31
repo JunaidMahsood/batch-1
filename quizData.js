@@ -468,7 +468,7 @@ D. Zayd ibn Harithah
 
 A. Abu Jahl
 
-*B Abu Sufyan ibn Harb
+*B. Abu Sufyan ibn Harb
 
 C. Khalid ibn Al-Walid
 
@@ -677,9 +677,7 @@ C.Introduction of military courts
 
 D. Ban on dual nationality
 
-63.
-
-What is the approximate range of Pakistan’s location in east longitude?
+63. What is the approximate range of Pakistan’s location in east longitude?
 
 A. 60°00'E to 75°00'E
 
@@ -707,7 +705,7 @@ A. Swat Valley
 
 B. Abbottabad
 
-*C Hathian Bala, Azad Kashmir
+*C. Hathian Bala, Azad Kashmir
 
 D. Skardu
 
