@@ -916,7 +916,7 @@ D. Jos Buttler
 
 87. Who became Brighton and Hove's first South Asian Muslim mayor in May 2024?
 
-*A Mohammed Asaduzzaman
+*A. Mohammed Asaduzzaman
 
 B. Imran Hussain
 
@@ -945,7 +945,7 @@ D. July 15
 
 90. Who became the first female brigadier in the Pakistan Army from the Christian and minority community in May 2024?
 
-*A.Dr.Helen Mary Roberts
+*A. Dr.Helen Mary Roberts
 
 B. Shazia Anwar
 
@@ -1046,8 +1046,7 @@ C. Salahuddin Khan
 
 100. Who was appointed as the Chairman of the Council of Islamic Ideology (CII) on May 21, 2024?
 
-*
-A. Allama Dr.Raghib Hussain Naeemi
+*A. Allama Dr.Raghib Hussain Naeemi
 B. Dr.Tahir Ashrafi
 
 C. Dr.Qibla Ayaz
