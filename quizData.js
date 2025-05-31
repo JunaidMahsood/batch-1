@@ -667,7 +667,7 @@ D. Presidential powers
 
 
 
-62.hat is the main subject of the 18th Amendment to the Constitution of Pakistan (1973)?
+62.What is the main subject of the 18th Amendment to the Constitution of Pakistan (1973)?
 
 *A. Devolution of powers from President to Prime Minister and removal of Article 58(2)(b)
 
