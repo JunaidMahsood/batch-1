@@ -548,7 +548,7 @@ C.The Tablet, 6th Manzil
 
 A. Witness
 
-*B Associate
+*B. Associate
 
 C. Guard
 
@@ -565,9 +565,7 @@ D. Exchange
 
 
 
-63.
-
-What is the closest synonym of the word “beatitude”?
+63. What is the closest synonym of the word “beatitude”?
 
 A. Suffering
 
@@ -742,7 +740,7 @@ D. Cause
 80.In the sentence "He looked around," the word "around" is functioning as:
 
 A. Preposition
-*B Adverb
+*B. Adverb
 
 C. Conjunction
 
