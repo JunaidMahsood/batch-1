@@ -193,8 +193,7 @@ D. 36
 
 27.How many times is the word "Salat" mentioned in the Quran?
 
-*
-A.82 times
+*A.82 times
 
 B. 65 times
 
@@ -206,7 +205,7 @@ D. 114 time
 
 A. 1%
 
-*B 2.5%
+*B. 2.5%
 
 C. 5%
 
